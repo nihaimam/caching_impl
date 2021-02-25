@@ -1,0 +1,42 @@
+Virtual Address: 0x7f 
+	Physical Address: 0x7847f from Page Fault Handler
+	Data: 0x52 from memory
+Virtual Address: 0x7e 
+	Physical Address: 0x7847e from TLB
+	Data: 0xae from cache
+Virtual Address: 0x4269 
+	Physical Address: 0x96e69 from Page Fault Handler
+	Data: 0xd3 from memory
+Virtual Address: 0x3e9 
+	Physical Address: 0x1e5e9 from Page Fault Handler
+	Data: 0x54 from memory
+Virtual Address: 0x4269 
+	Physical Address: 0x96e69 from Page Table
+	Data: 0xd3 from cache
+Virtual Address: 0x4269 
+	Physical Address: 0x96e69 from TLB
+	Data: 0xd3 from cache
+Virtual Address: 0x4269 
+	Physical Address: 0x96e69 from TLB
+	Data: 0xd3 from cache
+Virtual Address: 0x426a 
+	Physical Address: 0x96e6a from TLB
+	Data: 0x40 from cache
+Virtual Address: 0x4268 
+	Physical Address: 0x96e68 from TLB
+	Data: 0x2c from cache
+Virtual Address: 0x95 
+	Physical Address: 0x78495 from TLB
+	Data: 0x76 from memory
+Virtual Address: 0x94 
+	Physical Address: 0x78494 from TLB
+	Data: 0x47 from cache
+Virtual Address: 0x12 
+	Physical Address: 0x78412 from TLB
+	Data: 0x9f from memory
+Virtual Address: 0x12 
+	Physical Address: 0x78412 from TLB
+	Data: 0x9f from cache
+Virtual Address: 0x12 
+	Physical Address: 0x78412 from TLB
+	Data: 0x9f from cache
